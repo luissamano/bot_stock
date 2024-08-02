@@ -31,7 +31,7 @@ Antes de empezar, asegúrate de tener instaladas las siguientes herramientas:
    DB_NAME=stocks
    DB_USER=postgres
    DB_PASS=postgres
-   API_KEY=73dc1822fd02472e5cd3befbee805ad0
+   API_KEY=
    DB_HOST=bot_stock-db-1
    ```
 
