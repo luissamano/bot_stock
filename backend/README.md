@@ -23,18 +23,16 @@ Antes de empezar, asegúrate de tener instaladas las siguientes herramientas:
 
 2. **Crear el Archivo `.env`**
 
-   Copia el archivo `.env.example` a `.env` y ajusta las variables según tus necesidades.
-
-   ```bash
-   cp .env.example .env
-   ```
+   Crea el archivo `.env` y ajusta las variables según tus necesidades.
 
    Asegúrate de definir las variables de entorno necesarias en el archivo `.env`. Por ejemplo:
 
    ```env
-   DB_HOST=db
-   DB_PASS=yourpassword
-   API_KEY=your_api_key
+   DB_NAME=stocks
+   DB_USER=postgres
+   DB_PASS=postgres
+   API_KEY=73dc1822fd02472e5cd3befbee805ad0
+   DB_HOST=bot_stock-db-1
    ```
 
 ## Instalación y Ejecución
