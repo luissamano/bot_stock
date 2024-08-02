@@ -1,6 +1,7 @@
 .DS_STORE
 .env
 
+./fronend/nodem_odules
 
 scripts/flow/*/.flowconfig
 .flowconfig

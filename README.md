@@ -94,4 +94,8 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 
 ---
 
+<<<<<<< HEAD
 Asegúrate de personalizar el `README.md` según los detalles específicos de tu proyecto y cualquier otra información relevante que desees incluir.
+=======
+Asegúrate de personalizar el `README.md` según los detalles específicos de tu proyecto y cualquier otra información relevante que desees incluir.
+>>>>>>> f9c34cdc (add readme front)
