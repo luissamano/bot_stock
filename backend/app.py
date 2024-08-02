@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Depends, status, HTTPException # type: ignore
+from fastapi import FastAPI, Depends, HTTPException # type: ignore
 from typing import List
 from db.database import engine, get_db
 from stock import stock_model
